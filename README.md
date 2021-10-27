@@ -1,6 +1,6 @@
-<h1 align="center"> :star2: Image Editor Project </h1>
-
+<h1 align="center"> :star2: Calculator </h1>
 <p align="center"> A simple calculator app made with :heart: and React.</p>
+
 ## :bulb: Introduction :
 
 ### It is a simple react calculator app with a good UI.
