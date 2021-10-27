@@ -1,6 +1,16 @@
-# Calculator
-A simple calculator app made with :heart: and React.
+<h1 align="center"> :star2: Image Editor Project </h1>
 
+<p align="center"> A simple calculator app made with :heart: and React.</p>
+## :bulb: Introduction :
+
+### It is a simple react calculator app with a good UI.
+### You can find the application **[here](https://dhanrajchaurasia.github.io/calculator/).**
+
+## :star2: TechStacks Used : 
+- Html5
+- CSS3
+- JavaScript 
+- React JS
  
 ---
 
