@@ -1,12 +1,11 @@
 <h1 align="center"> :star2: Calculator </h1>
 <p align="center"> A simple calculator app made with :heart: and React.</p>
 
-## :bulb: Introduction :
+### :bulb: Introduction :
+It is a simple react calculator app with a good UI.
+You can find the application **[here](https://dhanrajchaurasia.github.io/calculator/).**
 
-### It is a simple react calculator app with a good UI.
-### You can find the application **[here](https://dhanrajchaurasia.github.io/calculator/).**
-
-## :star2: TechStacks Used : 
+### :star2: TechStacks Used : 
 - Html5
 - CSS3
 - JavaScript 
