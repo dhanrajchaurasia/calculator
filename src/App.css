@@ -2,7 +2,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-size: 18px;
+    font-size: 25px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -12,8 +12,8 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 255px;
-    margin: 0 auto;
+    width: 350px;
+    margin: 0px auto;
     border: 10px solid #101110;
     background-color: #101110;
     border-radius: 5px;
@@ -22,22 +22,22 @@
 .keypad{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-auto-rows: minmax(60px, auto);
+    grid-auto-rows: minmax(80px, auto);
 }
 .container > h1{
-    font-size: 25px;
+    font-size: 35px;
     position: relative;
     bottom: 60px;
 }
 form > input{
     width: 100%;
-    height: 80px;
+    height: 100px;
     outline: none;
     border: 0px;
     background-color: inherit;
     color: #fff;
     text-align: right;
-    font-size: 30px;
+    font-size: 40px;
     padding-right: 40px;
     font-weight: 700;
     letter-spacing: 1px;
